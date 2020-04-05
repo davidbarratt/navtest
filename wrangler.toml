@@ -1,0 +1,5 @@
+name = "navtest"
+type = "webpack"
+account_id = "2659099e440328a773821e7db5363a84"
+workers_dev = true
+webpack_config = "webpack.config.js"

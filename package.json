@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "navtest",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Barratt <dbarratt@wikimedia.org>",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "service-worker-router": "^1.7.5"
+  }
+}
